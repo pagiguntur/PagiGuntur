@@ -1,10 +1,7 @@
 <h3 align="center"> <samp> Hi! 👋 I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://github.com/PagiGuntur">Guntur</a> and I’m a</b> </samp> </h3>
-<h2 align="center"> <samp> 「 Self-proclaimed AI Researcher on Natural Language, Computer Vision, and Fermentation 」</samp></h2>
+<h2 align="center"> <samp> 「 Self-proclaimed Researcher on </br> Natural Language Processing, Computer Vision, and Fermentation 」</samp></h2>
 
-<p align="center">
-<img src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" height="300" width="500" />
- </p>
- 
+<p align="center"> <img src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" height="300" width="500" /> </p>
 
 <details align="center">
    <summary> <samp>&#9776; Stats Details</samp></summary>
