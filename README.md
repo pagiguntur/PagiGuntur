@@ -4,14 +4,6 @@
 <details align="center">
    <summary> <samp>&#9776; Stats Details</samp></summary>
    <p align="center">
-     <br>
-      <a href="https://github.com/PagiGuntur?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white"></a>
-      <a href="https://github.com/PagiGuntur?tab=repositories&language=python" target="_blank"><img alt="Python" src="https://img.shields.io/badge/-Python-3572A5?style=flat-square&logo=Python&logoColor=white"></a>
-      <a href="https://github.com/PagiGuntur?tab=repositories&language=javascript" target="_blank"><img alt="Javascript" src="https://img.shields.io/badge/-Javascript-f1e05a?style=flat-square&logo=Javascript&logoColor=white"></a>
-      <a href="https://github.com/PagiGuntur?tab=repositories&language=c%2B%2B" target="_blank"><img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-f34b7d?style=flat-square&logo=C%2B%2B&logoColor=white"></a>
-      <a href="https://github.com/PagiGuntur?tab=repositories&language=java" target="_blank"><img alt="Java" src="https://img.shields.io/badge/-Java-b07219?style=flat-square&logo=Java&logoColor=white"></a>
-      <a href="https://github.com/PagiGuntur?tab=repositories&language=html" target="_blank"><img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"></a>
-    <br>
       <img src="https://github-readme-stats.vercel.app/api?username=PagiGuntur&show_icons=true&hide_border=true&hide=issues&title_color=5391FE&icon_color=000000&text_color=555"></img><br>
     <samp>
       Check out my <a rel="nofollow noopener noreferrer" target="_blank" href="https://pagiguntur.github.io/CV-Gregorius%20Guntur.pdf">Resumé</a><br>
@@ -20,19 +12,38 @@
   </p>
 </details>
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pagiguntur) 
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@delusionalprofessor)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/profmothuna) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@perjamoean) 
+[![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)](https://id.quora.com/profile/Pagi-Guntur)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Gregorius-Guntur-Sunardi-Putra)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=YY6piPUAAAAJ&hl=en)
 
-<p align="center">
-  <a href="https://twitter.com/pagiguntur" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@8.1.0/icons/twitter.svg" alt="pagiguntur" height="30" width="30" /></a> &nbsp; &nbsp; &nbsp;
-  <a href="https://linkedin.com/in/pagiguntur" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@8.1.0/icons/linkedin.svg" alt="pagiguntur" height="30" width="30" /></a> &nbsp; &nbsp; &nbsp;
-  <a href="https://youtube.com/pagiguntur" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@8.1.0/icons/youtube.svg" alt="pagiguntur" height="30" width="30" /></a> &nbsp; &nbsp; &nbsp;
-  <a href="https://instagram.com/pagi.guntur" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@8.1.0/icons/instagram.svg" alt="pagi.guntur" height="30" width="30"/></a> &nbsp; &nbsp; &nbsp;
-  <a href="https://id.quora.com/profile/Pagi-Guntur" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@8.1.0/icons/quora.svg" alt="pagi.guntur" height="30" width="30"/></a> &nbsp; &nbsp; &nbsp;
-</p>
-
+## 💻 Tech Stack:
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E)
+![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
 <samp>
   <p align="center">
     ════ ⋆★⋆ ════<br>
-    Made in Malang, Indonesia from <a href="https://github.com/PagiGuntur/PagiGuntur">Pagi Guntur</a>
+    Made in Surabaya, Indonesia from <a href="https://github.com/PagiGuntur/PagiGuntur">Pagi Guntur</a>
   </p>
 </samp>
