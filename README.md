@@ -1,6 +1,12 @@
 <h3 align="center"> <samp> You've run into my GitHub, it appears. Welcome. 👋 I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://github.com/PagiGuntur">Pagi Guntur</a> </b> </samp> </h3>
 <h2 align="center"> <samp> 「 Delusional Researcher on  Natural Language Processing, <br> Computer Vision, Medical Imaging and Fermentation 」</samp></h2>
 
+<p align=center>
+  <a href="https://pagiguntur.github.io/">
+    <img src="https://raw.githubusercontent.com/pagiguntur/PagiGuntur/refs/heads/main/LinkedIn%20Banner.png" />
+  </a>
+</p>
+
 <details align="center">
    <summary> <samp>&#9776; Stats Details</samp></summary>
    <p align="center">
