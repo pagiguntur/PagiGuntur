@@ -8,8 +8,6 @@
 </p>
 
    <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=PagiGuntur&show_icons=true&hide_border=true&hide=issues&title_color=5391FE&icon_color=000000&text_color=555"></img><br>
-    <samp>
       Check out my <a rel="nofollow noopener noreferrer" target="_blank" href="https://pagiguntur.github.io/CV-Gregorius%20Guntur.pdf">Resumé</a><br>
       <a href="https://github.com/PagiGuntur/PagiGuntur" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/PagiGuntur/PagiGuntur?label=profile%20updated&style=flat-square"></a>
     </samp>
