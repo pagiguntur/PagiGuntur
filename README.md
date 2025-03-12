@@ -15,9 +15,6 @@
 
 ## 🌐 Socials:
 <p align=center>
-<!--   <a href="https://scholar.google.com/citations?user=YY6piPUAAAAJ&hl=en">
-    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" />
-  </a> -->
   <a href="https://medium.com/@delusionalprofessor">
     <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" />
   </a>
@@ -29,6 +26,9 @@
   </a>
   <a href="https://www.researchgate.net/profile/Gregorius-Guntur-Sunardi-Putra">
     <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white" />
+  </a>
+  <a href="https://scholar.google.com/citations?user=YY6piPUAAAAJ&hl=en">
+    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/pagiguntur">
     <img src="https://skillicons.dev/icons?i=linkedin" />
