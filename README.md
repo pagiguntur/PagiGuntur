@@ -14,28 +14,14 @@
   </p>
 
 ## 🌐 Socials:
-<p align=center>
-  <a href="https://medium.com/@delusionalprofessor">
-    <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" />
-  </a>
-  <a href="https://www.youtube.com/@perjamoean">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" />
-  </a>
-  <a href="https://id.quora.com/profile/Pagi-Guntur">
-    <img src="https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white" />
-  </a>
-  <a href="https://www.researchgate.net/profile/Gregorius-Guntur-Sunardi-Putra">
-    <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white" />
-  </a>
-  <a href="https://scholar.google.com/citations?user=YY6piPUAAAAJ&hl=en">
-    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/pagiguntur">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://twitter.com/profmothuna">
-    <img src="https://skillicons.dev/icons?i=twitter" />
-  </a>
+<p>
+  Read my answer in Medium  : <a href="https://medium.com/@gluttera">@gluttera</a> <br>
+  Read my answer in Quora            : <a href="https://id.quora.com/profile/Pagi-Guntur">@Pagi Guntur</a> <br>
+  See Think in Youtube               : <a href="https://www.youtube.com/@perjamoean">@perjamoean</a> <br>
+  Read my Research in ResearchGate   : <a href="https://www.researchgate.net/profile/Gregorius-Guntur-Sunardi-Putra">@Pagi Guntur</a> <br>
+  Read my Research in GoogleScholar  : <a href="https://scholar.google.com/citations?user=YY6piPUAAAAJ&hl=en">@Pagi Guntur</a><br>
+  Connect in LinkedIn                : <a href="https://linkedin.com/in/pagiguntur">@Pagi Guntur</a><br>
+  Connect in Twitter                 : <a href="https://twitter.com/profmothuna">@Pagi Guntur</a>
 </p>
 
 ## 💻 Tech Stack:
