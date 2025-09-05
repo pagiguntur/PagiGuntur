@@ -13,23 +13,62 @@
     </samp>
   </p>
 
-## 🌐 Socials:
-<p>
-  Read my answer in Medium  : <a href="https://medium.com/@gluttera">@gluttera</a> <br>
-  Read my answer in Quora            : <a href="https://id.quora.com/profile/Pagi-Guntur">@Pagi Guntur</a> <br>
-  See Think in Youtube               : <a href="https://www.youtube.com/@perjamoean">@perjamoean</a> <br>
-  Read my Research in ResearchGate   : <a href="https://www.researchgate.net/profile/Gregorius-Guntur-Sunardi-Putra">@Pagi Guntur</a> <br>
-  Read my Research in GoogleScholar  : <a href="https://scholar.google.com/citations?user=YY6piPUAAAAJ&hl=en">@Pagi Guntur</a><br>
-  Connect in LinkedIn                : <a href="https://linkedin.com/in/pagiguntur">@Pagi Guntur</a><br>
-  Connect in Twitter                 : <a href="https://twitter.com/profmothuna">@Pagi Guntur</a>
-</p>
+<h2 align=center>🌐 Socials 🌐</h2>
+<!-- <table align="center" width="100%">
+  <tr>
+    <td><b>Read my ans</b></td>
+        <td>
+            <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" />
+            <img src="https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php" />
+            <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" />
+            <img src="https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript" />
+    </td>
+  </tr>
+</table> -->
 
-## 💻 Tech Stack:
-<p align=center>
+<ul>
+  <li>Read my answer in Medium &nbsp;: <a href="https://medium.com/@gluttera">@gluttera</a> </li>
+  <li>Read my answer in Quora : <a href="https://id.quora.com/profile/Pagi-Guntur">@Pagi Guntur</a> </li>
+  <li>See my Think in Youtube : <a href="https://www.youtube.com/@perjamoean">@perjamoean</a>  </li>
+  <li>Read my Research in ResearchGate : <a href="https://www.researchgate.net/profile/Gregorius-Guntur-Sunardi-Putra">@Pagi Guntur</a></li>
+  <li>Read my Research in GoogleScholar : <a href="https://scholar.google.com/citations?user=YY6piPUAAAAJ&hl=en">@Pagi Guntur</a> </li>
+  <li>Connect in LinkedIn : <a href="https://linkedin.com/in/pagiguntur">Pagi Guntur</a> </li>
+  <li>Connect in Twitter : <a href="https://twitter.com/profmothuna">Pagi Guntur</a> </li>
+</ul>
+
+<h2 align=center>✧ 💻 Tech Stack ✧ </h2>
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,vscode,obsidian,js,py,nodejs,anaconda,latex,lua,astro,tailwind,rust,docker,md,tensorflow" />
   </a>
 </p>
+
+<h2 align=center>✧ ⏱️ Wakatime and Github Stats  (it's pathetic, I know) ✧ </h2>
+<h3 align="center" style="color:blue;">
+  <strong> Github Stats <strong>
+</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pagiguntur&show_icons=true&hide_border=true&hide_title=true&theme=tokyonight&hide=issues&bg_color=0d1117&title_color=ie22aa&icon_color=1e22aa&text_color=fff"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pagiguntur&layout=compact&theme=tokyonight&bg_color=0d1117&hide_title=true&hide_border=true&langs_count=4"/>
+  <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=pagiguntur&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak"/>
+</p>
+    
+<h3 align="center" style="color:blue;">
+  <strong> WakaTime Stats <strong>
+</h3>
+<p align="center">
+    <a href="https://wakatime.com/@Gluttera">
+<!--         <img src="https://wakatime.com/share/@Gluttera/500fa5e2-a8fa-4364-b3ba-256bfe34c8f2.svg" alt="Wakatime Chart"/> -->
+      <img src="https://wakatime.com/share/@Gluttera/fd76ed10-f2ff-421f-9702-019b8b58d37c.svg" alt="Wakatime Chart" width="80%"/>
+    </a>
+</p>
+<p align="center">
+    <a href="https://wakatime.com/@Gluttera">
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Gluttera&layout=compact&hide_border=true&hide=other&custom_title=Most%20Used%20Machine%20Language&theme=tokyonight&bg_color=0d1117&langs_count=6" alt="WakaTime Stats"/>
+    </a>
+</p>
+
+
 
 <samp>
   <p align="center">
