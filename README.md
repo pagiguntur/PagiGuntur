@@ -8,9 +8,9 @@
 </p>
 
    <p align="center">
-      Check out my <a rel="nofollow noopener noreferrer" target="_blank" href="https://pagiguntur.github.io/CV-Gregorius%20Guntur.pdf">Resumé</a><br>
-      <a href="https://github.com/PagiGuntur/PagiGuntur" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/PagiGuntur/PagiGuntur?label=profile%20updated&style=flat-square"></a>
-    </samp>
+      Check out my <a rel="nofollow noopener noreferrer" target="_blank" href="https://pagiguntur.github.io/CV-Gregorius%20Guntur.pdf">Resumé</a><br> <br>
+A multidisciplinary Artificial Intelligence Researcher specializing in biomedical applications, teaching machine to be almost always kind of right and turning data into gold through guided stochasticity. 
+     
   </p>
 
 <h2 align=center>🌐 Socials 🌐</h2>
