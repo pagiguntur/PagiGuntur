@@ -47,12 +47,11 @@ A multidisciplinary Artificial Intelligence Researcher specializing in biomedica
 <h3 align="center" style="color:blue;">
   <strong> Github Stats <strong>
 </h3>
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pagiguntur&show_icons=true&rank_icon=github&hide_border=true&hide_title=true&theme=tokyonight&hide=issues&bg_color=0d1117&title_color=ie22aa&icon_color=1e22aa&text_color=fff"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pagiguntur&layout=compact&theme=tokyonight&bg_color=0d1117&hide_title=true&hide_border=true&langs_count=4"/>
-  <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=pagiguntur&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak"/>
-</p>
-    
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pagiguntur&layout=compact&theme=tokyonight&bg_color=0d1117&hide_title=true&hide_border=true&langs_count=4"/> <br>
+  <img height="200" src="https://streak-stats.demolab.com?user=pagiguntur&theme=tokyonight&hide_border=true&background=000000" alt="GitHub Streak"/>
+</div>
 <h3 align="center" style="color:blue;">
   <strong> WakaTime Stats <strong>
 </h3>
