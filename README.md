@@ -57,7 +57,7 @@ A multidisciplinary Artificial Intelligence Researcher specializing in biomedica
     <img src="https://github-readme-streak-stats-eight.vercel.app/?user=PagiGuntur&theme=tokyonight&hide_border=true&background=000000" alt="GitHub Streak"/> 
   </div>
   <div align="center">
-    <a href="https://github.com/1999AZZAR" target="_blank">
+    <a href="https://github.com/pagiguntur" target="_blank">
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=pagiguntur&theme=github-compact&hide_border=true" alt="Activity Graph">
     </a>
   </div>
