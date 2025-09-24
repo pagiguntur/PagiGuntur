@@ -1,3 +1,14 @@
+<!-- <table align="center" width="100%">
+  <tr>
+    <td><b>Read my ans</b></td>
+        <td>
+            <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" />
+            <img src="https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php" />
+            <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" />
+            <img src="https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript" />
+    </td>
+  </tr>
+</table> -->
 <h3 align="center"> <samp> You've run into my GitHub, it appears. Welcome. 👋 I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://github.com/PagiGuntur">Pagi Guntur</a> </b> </samp> </h3>
 <h2 align="center"> <samp> 「 Delusional Researcher on  Natural Language Processing, <br> Computer Vision, Medical Imaging and Fermentation 」</samp></h2>
 
@@ -14,17 +25,7 @@ A multidisciplinary Artificial Intelligence Researcher specializing in biomedica
   </p>
 
 <h2 align=center>🌐 Socials 🌐</h2>
-<!-- <table align="center" width="100%">
-  <tr>
-    <td><b>Read my ans</b></td>
-        <td>
-            <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" />
-            <img src="https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php" />
-            <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" />
-            <img src="https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript" />
-    </td>
-  </tr>
-</table> -->
+
 
 <ul>
   <li>Read my answer in Medium &nbsp;: <a href="https://medium.com/@gluttera">@gluttera</a> </li>
