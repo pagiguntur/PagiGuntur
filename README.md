@@ -53,10 +53,19 @@ A multidisciplinary Artificial Intelligence Researcher specializing in biomedica
   </h3>
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=pagiguntur&show_icons=true&hide_border=true&hide_title=true&theme=tokyonight&hide=issues&bg_color=0d1117&title_color=ie22aa&icon_color=1e22aa&text_color=fff"/>
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pagiguntur&layout=compact&theme=tokyonight&bg_color=0d1117&hide_title=true&hide_border=true&langs_count=4"/> <br>
-  <!--   <img height="200" src="https://streak-stats.demolab.com?user=PagiGuntur&theme=tokyonight&hide_border=true&background=000000" alt="GitHub Streak"/> -->
-    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=PagiGuntur&theme=tokyonight&hide_border=true&background=000000" alt="GitHub Streak"/> 
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pagiguntur&layout=compact&theme=tokyonight&bg_color=0d1117&hide_title=true&hide_border=true&langs_count=4"/> 
   </div>
+  <table align="center">
+  <tr border="none">
+  <td width="40%" align="center">
+    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=PagiGuntur&theme=tokyonight&hide_border=true&background=000000" alt="GitHub Streak"/>
+  </td>
+    
+  <td width="60%" align="center">
+    <img  align="center"  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PagiGuntur&theme=github_dark&hide_border=true&background=000000" />
+  </td>
+  </tr>
+  </table>
   <div align="center">
     <a href="https://github.com/pagiguntur" target="_blank">
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=pagiguntur&theme=github-compact&hide_border=true" alt="Activity Graph">
