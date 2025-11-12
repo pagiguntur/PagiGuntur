@@ -78,7 +78,7 @@ A multidisciplinary Artificial Intelligence Researcher specializing in biomedica
     <p align="center">
         <a href="https://wakatime.com/@Gluttera">
     <!--         <img src="https://wakatime.com/share/@Gluttera/500fa5e2-a8fa-4364-b3ba-256bfe34c8f2.svg" alt="Wakatime Chart"/> -->
-          <img src="https://wakatime.com/share/@Gluttera/fd76ed10-f2ff-421f-9702-019b8b58d37c.svg" alt="Wakatime Chart" width="80%"/>
+          <img src="https://wakatime.com/share/@Gluttera/4dd7db74-6e7a-4cf7-9b18-6bb83b068307.svg" alt="Wakatime Chart" width="80%"/>
         </a>
     </p>
     <p align="center">
