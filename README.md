@@ -5,7 +5,7 @@
             <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" />
             <img src="https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php" />
             <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" />
-            <img src="https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript" />
+            
     </td>
   </tr>
 </table> -->
@@ -85,7 +85,7 @@ A multidisciplinary Artificial Intelligence Researcher specializing in biomedica
     <p align="center">
         <a href="https://wakatime.com/@Gluttera">
             <!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Gluttera&layout=compact&hide_border=true&hide=other&custom_title=Most%20Used%20Machine%20Language&theme=tokyonight&bg_color=0d1117&langs_count=6" alt="WakaTime Stats"/> -->
-        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Gluttera&layout=compact&hide_border=true&hide=other&custom_title=Most%20Used%20Machine%20Language&theme=tokyonight&bg_color=0d1117&langs_count=6" />
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=gluttera&layout=compact&hide_border=true&hide=other&custom_title=Most%20Used%20Machine%20Language&theme=tokyonight&bg_color=0d1117&langs_count=6" />
         </a>
     </p>
   </div>
